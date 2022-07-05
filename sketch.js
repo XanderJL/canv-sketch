@@ -1,4 +1,5 @@
 const canvasSketch = require('canvas-sketch')
+const random = require('canvas-sketch-util/random')
 
 const settings = {
   dimensions: [2048, 2048],
